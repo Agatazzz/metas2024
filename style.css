@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(147, 184, 142);
+    color: rgb(11, 53, 7);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+.botão{
+    background-color: rgb(192, 248, 167);
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(22, 39, 3);
+    padding: 10px;
+}
