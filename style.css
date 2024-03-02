@@ -1,14 +1,33 @@
+:root{
+    --cor-de-fundo:#b2d18a;
+    --verde:#273605;
+    --branco: #FFFFFF;
+    --botao-ativo: #80c077;
+    --botao-inativo: #0a1458;
+    --texto-de-fundo:#5e6278;
+}
+
+
 body{
-    background-color: rgb(147, 184, 142);
-    color: rgb(11, 53, 7);
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    background-color: rgb(146, 196, 129);
+    color: rgb(33, 68, 7);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 32px;
     text-align: center;
 }
 .botão{
-    background-color: rgb(192, 248, 167);
-    font-size: 20px;
+    background-color: rgb(194, 233, 144);
+    font-size: 40px;
     border-radius: 10px;
-    color: rgb(22, 39, 3);
-    padding: 10px;
+    color: rgb(36, 70, 4);
+    margin: 10px;
+    padding: 20px;
+}
+
+.conteudo-principal{
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    align-items: center;
+    margin: 0 auto;
 }
