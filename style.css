@@ -31,7 +31,10 @@ body{
     align-items: center;
     margin: 0 auto;
 }
- 
-.meta-organizar{
-display: inline;
+ .imagem{
+    width: 15%;
+    height: 15%;
+ }
+.meta{
+display: flex;
 }
